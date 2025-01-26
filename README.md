@@ -87,7 +87,12 @@ This script controls the asynchronous execution of `urls.py` and `info.py`. It:
 - Provides clear console logs for debugging.
 
 #### Example Output:
-*(Add screenshots or terminal output here.)*
+
+
+![WhatsApp Image 2025-01-26 at 11 28 15_9c0b3de0](https://github.com/user-attachments/assets/46e760bd-d29f-421f-a5e9-c1be56cf5077)
+
+![WhatsApp Image 2025-01-26 at 11 28 37_f8e93a3b](https://github.com/user-attachments/assets/134c72f3-d08d-45ec-baee-f56e3a0ef585)
+
 
 ---
 
@@ -98,8 +103,3 @@ This script controls the asynchronous execution of `urls.py` and `info.py`. It:
 - MongoDB installed and running locally
 - Required Python libraries: `pymongo`, `beautifulsoup4`, `requests`, and `asyncio`
 
-### Installation:
-1. Clone this repository:
-   ```bash
-   git clone <repository_url>
-   cd <repository_directory>
