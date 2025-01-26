@@ -1,3 +1,7 @@
+![MongoDB](https://img.shields.io/badge/MongoDB-Community-green.svg)
+[![Python](https://img.shields.io/badge/python-3.12.1-red.svg)](https://www.python.org/)
+
+
 # MercadoLibre Scraper Project
 
 This project consists of three Python scripts designed to scrape product data from MercadoLibre and store it in a MongoDB database. The scraping process is divided into two main steps, managed asynchronously using a controller script.
